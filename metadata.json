@@ -1,0 +1,10 @@
+{
+  "name": "CamScan Mobile - Document Scanner & OCR",
+  "description": "Mobile document scanner with real-time edge detection, perspective warping, Magic Color enhancement, multi-page PDF export, and OCR text extraction.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
